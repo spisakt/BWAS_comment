@@ -1,8 +1,7 @@
 ### Source code for:
 
-## On the Replicability of Multivariate Brain-Wide Association Studies: Do We Really Need Thousands of participants?
+## A Good Model is Worth a Thousand Participants: Replicable Multivariate BWAS with moderate sample sizes
 
-### *An good model is worth a thousand participants*
 
 **Main analysis script:** [multivariate_BWAS_replicability_analysis.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis.ipynb)
 
