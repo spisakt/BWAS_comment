@@ -1,3 +1,6 @@
+
+[![GitHub license](https://img.shields.io/github/license/spisakt/BWAS_comment.svg)](https://github.com/spisakt/BWAS_comment/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/spisakt/BWAS_comment.svg)](https://github.com/spisakt/BWAS_comment/releases/)
 ### Source code for:
 
 ## A Good Model is Worth a Thousand Participants: Replicable Multivariate BWAS with moderate sample sizes
