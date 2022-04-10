@@ -1,10 +1,22 @@
-Human Connectome Project Dataset (HCP)
-======================================
+# Preprocessed data from the Human Connectome Project
 
-1. Download Behavioral Data as published on connectomeDB: https://db.humanconnectome.org/.
+Dataset is not part of the repository but can be easily obtained in two ways:
+
+### Option A: Via DataLad (contact the authors for credentials)
+
+```
+export WEBDAV_USERNAME=XXXX
+export WEBDAV_PASSWORD=XXXX-XXXX-XXXX-XXXX
+datalad install -s git@github.com:pni-data/hcp-connectivity.git hcp_data
+datalad siblings -d hcp_data enable -s sciebo.sfb289
+datalad get hcp_data
+```
+
+### Option B: Download from ConnectomeDB
+3. Download Behavioral Data as published on connectomeDB: https://db.humanconnectome.org/.
 `hcp1200_behavioral_data.csv`
 
-2. HCP1200 Parcellation+Timeseries+Netmats (PTN), as published on connectomeDB: https://db.humanconnectome.org/
+4. HCP1200 Parcellation+Timeseries+Netmats (PTN), as published on connectomeDB: https://db.humanconnectome.org/
 
 - Download: 1003 Subjects, recon r177 + r227, PTN Release (13GB) 
 
@@ -24,21 +36,10 @@ mv HCP_PTN1200/netmats_3T_HCP1200_MSMAll_ICAd100_ts2/netmats/3T_HCP1200_MSMAll_d
 - run:
 `python3 get_motion.data.py <your_hcp_dataset_dir>/HCP1200`
 
-As a results, this folder should contain the following files.
+### As a results, this folder should contain the following files.
 
 - `hcp1200_behavioral_data.csv`: all behavioral and demographic data of the HCP1200-release
 - `netmats1_correlationZ.txt`: Fisher Z-transformed pearson correlations matrices, flattened format, i.e one row per subject
 - `netmats2_partial-correlation.txt`: Partial correlations matrices (with a slight regularization), flattened format, i.e one row per subject
 - `subjectIDs.txt`: subject IDs, links rows of the netmat files to the 'Subject' column of the behavioral dataframe.
-
-
-
-Publications:
--------------
-
-> Van Essen DC, Ugurbil K, Auerbach E, Barch D, Behrens TE, Bucholz R, Chang A, Chen L, Corbetta M, Curtiss SW, Della Penna S. The Human Connectome Project: a data acquisition perspective. Neuroimage. 2012 Oct 1;62(4):2222-31.
-
-> Smith SM, Beckmann CF, Andersson J, Auerbach EJ, Bijsterbosch J, Douaud G, Duff E, Feinberg DA, Griffanti L, Harms MP, Kelly M. Resting-state fMRI in the human connectome project. Neuroimage. 2013 Oct 15;80:144-68.
-
-> Glasser MF, Sotiropoulos SN, Wilson JA, Coalson TS, Fischl B, Andersson JL, Xu J, Jbabdi S, Webster M, Polimeni JR, Van Essen DC. The minimal preprocessing pipelines for the Human Connectome Project. Neuroimage. 2013 Oct 15;80:105-24.
 
