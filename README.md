@@ -1,6 +1,6 @@
 
-[![GitHub license](https://img.shields.io/github/license/spisakt/BWAS_comment.svg)](https://github.com/spisakt/BWAS_comment/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/spisakt/BWAS_comment.svg)](https://github.com/spisakt/BWAS_comment/releases/)
+[![GitHub license](https://img.shields.io/github/license/spisakt/bwas_comment.svg)](https://github.com/spisakt/bwas_comment/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/spisakt/bwas_comment.svg)](https://github.com/spisakt/bwas_comment/releases/)
 
 ### Source code for:
 
