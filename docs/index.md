@@ -1,5 +1,7 @@
 ## Main results
 
+** **Under construction** **
+
 <img src="https://github.com/spisakt/BWAS_comment/blob/master/fig/main_fig.png" width="800">
 
 ***Figure 1. Multivariate BWAS provide unbiased effect sizes and high replicability with low-moderate sample sizes.***
