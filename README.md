@@ -11,7 +11,8 @@
 [spisakt.github.io/BWAS_comment](https://spisakt.github.io/BWAS_comment)
 
 **How to get it run with 1 click**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/BWAS_comment/HEAD)
+
+Click here (and be patient): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/BWAS_comment/HEAD)
 
 **How to get it run in 5 mins**
 - install [docker](https://www.docker.com/)
