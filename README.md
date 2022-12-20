@@ -10,11 +10,15 @@
 **Project webpage:**
 [spisakt.github.io/BWAS_comment](https://spisakt.github.io/BWAS_comment)
 
-**How to get it run with 1 click**
+**How to get the data**
+- Option 1: contact the authors for credentials and get it with [get_data.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC.ipynb) in one minute.
+- Option 2: Get the data manually from  [ConnectomeDB](https://db.humanconnectome.org). See [hcp_data/readme.md](https://github.com/spisakt/BWAS_comment/blob/master/hcp_data/readme.md) for details.
+
+**How to get the analyses run with 1 click (in the cloud)**
 
 Click here (and be patient): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/BWAS_comment/HEAD)
 
-**How to get it run in 5 mins**
+**How to get the analyses run in 5 mins (locally on your computer)**
 - install [docker](https://www.docker.com/)
 - run `docker run -it -p 8080:8080 -p 8888:8888 tspisak/bwas:latest jupyter notebook`
 - copy paste the last link in your browser.
