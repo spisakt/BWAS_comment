@@ -27,7 +27,8 @@
 ### How to run?
 
 - **Run the analyses with 1 click (in the cloud)**
-  - Simply click here (and be patient): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/BWAS_comment/HEAD)
+  - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/BWAS_comment/HEAD)
+  - [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=master&repo=471481129) 
 
 - **Set up everything to run in 5 mins (locally on your computer)**
   - install [docker](https://www.docker.com/)
