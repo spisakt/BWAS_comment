@@ -24,7 +24,7 @@ jobs:
     - name: Build the Docker image
       run: |
         docker build . --file Dockerfile --tag tspisak/bwas:latest
-        docker tag pnilab/pumi:latest pnilab/pumi:${{steps.tag.outputs.tag}}
+        docker tag tspisak/bwas:latest tspisak/bwas:${{steps.tag.outputs.tag}}
       
     - name: Login to DockerHub
       uses: docker/login-action@v1
