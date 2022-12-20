@@ -2,6 +2,9 @@
 [![GitHub license](https://img.shields.io/github/license/spisakt/bwas_comment.svg)](https://github.com/spisakt/bwas_comment/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/spisakt/bwas_comment.svg)](https://github.com/spisakt/bwas_comment/releases/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/BWAS_comment/HEAD)
+[![Docker Image Version (latest semver)](https://img.shields.io/docker/v/tspisak/bwas?color=blue&label=pnilab%2Fpumi%3A&logo=docker&sort=semver)](https://hub.docker.com/repository/docker/tspisak/bwas)
+![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/tspisak/bwas?label=%20pnilab%2Fpumi&logo=docker&sort=semver)
+
 
 ### Complete analysis source code for:
 
