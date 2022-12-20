@@ -23,8 +23,8 @@ jobs:
         
     - name: Build the Docker image
       run: |
-        docker build . --file Dockerfile --tag tspisak/bwas:latest
-        docker tag tspisak/bwas:latest tspisak/bwas:${{steps.tag.outputs.tag}}
+        docker build . --file Dockerfile --tag tspisak/bwasrep:latest
+        docker tag pnilab/bwasrep:latest pnilab/bwasrep:${{steps.tag.outputs.tag}}
       
     - name: Login to DockerHub
       uses: docker/login-action@v1
@@ -35,5 +35,5 @@ jobs:
     - name: Docker Push
       run: |
         VER=`echo ${{steps.tag.outputs.tag}} | awk -F'[.-]' '{print $1 "." $2 "." $3}'` #major.minor.patch
-        docker push tspisak/bwas:latest
-        docker push tspisak/bwas:${{steps.tag.outputs.tag}}
+        docker push pnilab/bwasrep:latest
+        docker push pnilab/bwasrep:${{steps.tag.outputs.tag}}
