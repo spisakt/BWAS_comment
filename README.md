@@ -6,7 +6,6 @@
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/tspisak/bwas?label=%20tspisak%2Fbwas&logo=docker&sort=semver)
 
 
-
 ### Complete analysis source code for:
 
 ## Replicable Multivariate BWAS with moderate sample sizes
