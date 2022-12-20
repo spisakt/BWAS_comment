@@ -7,9 +7,7 @@
 
 ## Replicable Multivariate BWAS with moderate sample sizes
 
-*Tamas Spisak, Ulrike Bingel, Tor Wager*
-
-*accepted in Nature*
+*Tamas Spisak, Ulrike Bingel, Tor Wager, Nature, 2022*
 
 -------------------
 
