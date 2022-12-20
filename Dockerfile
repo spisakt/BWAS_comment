@@ -1,4 +1,4 @@
-ARG BASE_CONTAINER=jupyter/scipy-notebook
+ARG BASE_CONTAINER=jupyter/scipy-notebook:python-3.10.8
 FROM $BASE_CONTAINER
 
 LABEL author="Tamas Spisak"
