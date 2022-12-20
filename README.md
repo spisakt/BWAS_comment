@@ -19,7 +19,7 @@
 -------------------
 
 ### **How to get the data?**
-- Option 1: contact the authors for credentials and get it with [get_data.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/get_data.ipynb) in one minute.
+- Option 1: contact the authors for credentials and get it with [get_data.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/get_data.ipynb) in one minute (this option is for collaborators only).
 - Option 2: Get the data manually from  [ConnectomeDB](https://db.humanconnectome.org). See [hcp_data/readme.md](https://github.com/spisakt/BWAS_comment/blob/master/hcp_data/readme.md) for details.
 
 -------------------
