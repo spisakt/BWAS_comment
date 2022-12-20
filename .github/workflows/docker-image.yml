@@ -23,7 +23,7 @@ jobs:
         
     - name: Build the Docker image
       run: |
-        docker build . --file Dockerfile --tag tspisak/bwasrep:latest
+        docker build . --file Dockerfile --tag pnilab/bwasrep:latest
         docker tag pnilab/bwasrep:latest pnilab/bwasrep:${{steps.tag.outputs.tag}}
       
     - name: Login to DockerHub
