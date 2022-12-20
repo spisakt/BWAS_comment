@@ -8,7 +8,7 @@
 ## Replicable Multivariate BWAS with moderate sample sizes
 
 **Project webpage:**
-[spisakt.github.io/BWAS_comment]
+[spisakt.github.io/BWAS_comment](https://spisakt.github.io/BWAS_comment)
 
 **Main analysis notebooks:** 
 - [multivariate_BWAS_replicability_analysis_FC.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC.ipynb)
