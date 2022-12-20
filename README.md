@@ -14,24 +14,24 @@
 
 -------------------
 
-### **How to get the data**
+### **How to get the data?**
 - Option 1: contact the authors for credentials and get it with [get_data.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/get_data.ipynb) in one minute.
 - Option 2: Get the data manually from  [ConnectomeDB](https://db.humanconnectome.org). See [hcp_data/readme.md](https://github.com/spisakt/BWAS_comment/blob/master/hcp_data/readme.md) for details.
 
 -------------------
 
-### **How to get the analyses run with 1 click (in the cloud)**
+### **How to get the analyses run with 1 click (in the cloud)?**
 
 Click here (and be patient): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/BWAS_comment/HEAD)
 
-### **How to get the analyses run in 5 mins (locally on your computer)**
+### **How to get the analyses run in 5 mins (locally on your computer)?**
 - install [docker](https://www.docker.com/)
 - run `docker run -it -p 8080:8080 -p 8888:8888 tspisak/bwas:latest jupyter notebook`
 - copy paste the last link in your browser.
 
 -------------------
 
-### What is what
+### What is what in the repository?
 
 **Main analysis notebooks:** 
 - [get_data.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/get_data.ipynb)
@@ -56,5 +56,7 @@ See [hcp_data/readme.md](https://github.com/spisakt/BWAS_comment/blob/master/hcp
 
 -------------------
 
-### How to cite:
+### How to cite?
+
+*T. Spisak, U. Bingel, T. Wager, Multivariate BWAS can be replicable with moderate sample sizes in some cases, accepted in Nature*
 
