@@ -27,13 +27,12 @@
 ### How to run?
 
 - **Run the analyses with 1 click (in the cloud)**
-
-Click here (and be patient): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/BWAS_comment/HEAD)
+  - Simply click here (and be patient): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/BWAS_comment/HEAD)
 
 - **Set up everything to run in 5 mins (locally on your computer)**
-- install [docker](https://www.docker.com/)
-- run `docker run -it -p 8080:8080 -p 8888:8888 tspisak/bwas:latest jupyter notebook`
-- copy paste the last link in your browser.
+  - install [docker](https://www.docker.com/)
+  - run `docker run -it -p 8080:8080 -p 8888:8888 tspisak/bwas:latest jupyter notebook`
+  - copy paste the last link in your browser.
 
 -------------------
 
