@@ -1,13 +1,14 @@
 
 [![GitHub license](https://img.shields.io/github/license/spisakt/bwas_comment.svg)](https://github.com/spisakt/bwas_comment/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/spisakt/bwas_comment.svg)](https://github.com/spisakt/bwas_comment/releases/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/BWAS_comment/HEAD)
 
 ### Complete analysis source code for:
 
 ## Replicable Multivariate BWAS with moderate sample sizes
 
 **Project webpage:**
-[spisakt.github.io/BWAS_comment]
+[spisakt.github.io/BWAS_comment](https://spisakt.github.io/BWAS_comment)
 
 **Main analysis notebooks:** 
 - [multivariate_BWAS_replicability_analysis_FC.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC.ipynb)
