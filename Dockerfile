@@ -15,8 +15,8 @@ USER ${NB_UID}
 RUN git config --global --add user.name BWASdemo
 RUN git config --global --add user.email bwas.user@noaddres.com
 RUN pip install joblib mlxtend datalad
-RUN mkdir ~/.ssh
-RUN ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+#RUN mkdir ${HOME}/.ssh
+#RUN ssh-keyscan -t rsa github.com >> ${HOME}/.ssh/known_hosts
 RUN mkdir ${HOME}/bwas && mkdir ${HOME}/bwas/hcp_data
 COPY --chown=${NB_UID}:${NB_GID} *.ipynb ${HOME}/bwas/
 WORKDIR "${HOME}/bwas"
