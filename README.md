@@ -1,7 +1,6 @@
 
 [![GitHub license](https://img.shields.io/github/license/spisakt/bwas_comment.svg)](https://github.com/spisakt/bwas_comment/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/spisakt/bwas_comment.svg)](https://github.com/spisakt/bwas_comment/releases/)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/BWAS_comment/HEAD)
 
 ### Complete analysis source code for:
 
@@ -10,7 +9,14 @@
 **Project webpage:**
 [spisakt.github.io/BWAS_comment](https://spisakt.github.io/BWAS_comment)
 
+**How to get it run in 5 mins**
+- install [docker](https://www.docker.com/)
+- run `docker run -it -p 8080:8080 -p 8888:8888 tspisak/bwas:latest jupyter notebook`
+- copy paste the last link in your browser.
+
 **Main analysis notebooks:** 
+- [get_data.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC.ipynb)
+- [multivariate_BWAS_replicability_analysis_FC.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC.ipynb)
 - [multivariate_BWAS_replicability_analysis_FC.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC.ipynb)
 - [multivariate_BWAS_replicability_analysis_FC_hires.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_hires.ipynb)
 
