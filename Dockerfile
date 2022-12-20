@@ -12,7 +12,7 @@ RUN apt-get update && \
     apt-get install -y datalad
 
 USER ${NB_UID}
-RUN git config --global --add user.name "BWAS user" \
+RUN git config --global --add user.name BWASdemo \
     && git config --global --add user.email bwas.user@noaddres.com \
     && pip install joblib mlxtend datalad \
     && mkdir ~/.ssh \
