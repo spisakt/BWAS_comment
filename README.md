@@ -1,10 +1,9 @@
 
 [![GitHub license](https://img.shields.io/github/license/spisakt/bwas_comment.svg)](https://github.com/spisakt/bwas_comment/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/spisakt/bwas_comment.svg)](https://github.com/spisakt/bwas_comment/releases/)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/BWAS_comment/HEAD)
 [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/pnilab/bwasrep?color=blue&label=pnilab%2Fbwasrep%3A&logo=docker&sort=semver)](https://hub.docker.com/repository/docker/pnilab/bwasrep)
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/pnilab/bwasrep?label=%20pnilab%2Fbwasrep&logo=docker&sort=semver)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spisakt/BWAS_comment/HEAD)
 
 ### Complete analysis source code for:
 
