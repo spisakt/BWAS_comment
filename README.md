@@ -6,6 +6,8 @@
 ### Complete analysis source code for:
 
 ## Replicable Multivariate BWAS with moderate sample sizes
+*Tamas Spisak, Ulrike Bingel, Tor Wager*
+*accepted in Nature*
 
 -------------------
 
