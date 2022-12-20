@@ -15,7 +15,7 @@
 -------------------
 
 ### **How to get the data**
-- Option 1: contact the authors for credentials and get it with [get_data.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC.ipynb) in one minute.
+- Option 1: contact the authors for credentials and get it with [get_data.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/get_data.ipynb) in one minute.
 - Option 2: Get the data manually from  [ConnectomeDB](https://db.humanconnectome.org). See [hcp_data/readme.md](https://github.com/spisakt/BWAS_comment/blob/master/hcp_data/readme.md) for details.
 
 -------------------
@@ -34,7 +34,7 @@ Click here (and be patient): [![Binder](https://mybinder.org/badge_logo.svg)](ht
 ### What is what
 
 **Main analysis notebooks:** 
-- [get_data.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC.ipynb)
+- [get_data.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/get_data.ipynb)
 - [multivariate_BWAS_replicability_analysis_FC.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC.ipynb)
 - [multivariate_BWAS_replicability_analysis_FC.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC.ipynb)
 - [multivariate_BWAS_replicability_analysis_FC_hires.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_hires.ipynb)
