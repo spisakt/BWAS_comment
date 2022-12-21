@@ -1,13 +1,26 @@
 
-** **Under construction** **
+This webpage accompanies the paper "Multivariate BWAS can be replicable with moderate sample sizes in some cases"
+by Tamas Spisak, Ulrike Bingel & Tor Wager, Nature, matter arising from
+"Reproducible brain-wise association studies require thousands of individuals" by Marek, Tervo-Clemmens et al.,
+Nature, 2022. Nature 603, 654–660 (2022). [https://doi.org/10.1038/s41586-022-04492-9](https://doi.org/10.1038/s41586-022-04492-9)
 
-In-sample effects in multivariate BWAS are only inflated if estimates are obtained without cross-validation. (b) Cross-validation fully eliminates in-sample effect size inflation and, as a consequence, provides higher replicability. Each point in (a) and (b) corresponds to one bootstrap subsample, as in Fig. 4b of Marek et al. Dotted lines denote the threshold for p=0.05 with n=495. (c) The inflation of in-sample effect size obtained without cross-validation (red) is reduced, but does not disappear, at higher sample sizes. Conversely, cross-validated estimates (blue) are slightly pessimistic with low sample sizes and become quickly unbiased as sample size is increased. (d) Without cross-validation, in-sample effect size estimates are non-zero (r≈0.5, red) even when predicting permuted outcome da...
-
-## Video Abstract
+### Video Abstract
 
 {% include youtube.html id="ZRzgcT5Tads" %}
 
+### Summary
+
+- Brain-wise Association Studies (BWAS) correlate individual differences in phenotypic traits with measures of brain structue and function.
+- A recent paper by Marek, Tervo-Clemmens (T-C) et al. [evaluated](https://doi.org/10.1038/s41586-022-04492-9) the effects of sample size on univariate and multivariate BWAS in three large-scale neuroimaging datasets and came to the general conclusion that *“BWAS reproducibility requires samples with thousands of individuals”*. 
+- Marek, T-C, et al. find that multivariate BWAS provide “inflated in-sample associations” that often fail to replicate (i.e., are underpowered) unless thousands of participants are included. This implies that effect size estimates from the discovery sample are necessarily inflated.
+- In our 'Matter Arising' commentary, we distinguish between the effect size estimation method (in-sample vs. cross-validated) and the sample (discovery vs. replication), and show that with appropriate cross-validation the in-sample “inflation” Marek, T-C, et al. report in the discovery sample can be entirely eliminated. 
+- With additional analyses, we demonstrate that multivariate BWAS effects in high quality datasets can be replicable with substantially smaller sample sizes in many cases. Specifically, with a standard multivariate prediction based on functional connectivity, BWAS is commonly replicable with N=75-500.
+
+
 <img src="https://github.com/spisakt/BWAS_comment/blob/master/fig/main_fig.png" width="20">
 
-***Figure 1. Multivariate BWAS provide unbiased effect sizes and high replicability with low-moderate sample sizes.***
-*(a) In-sample effects in multivariate BWAS are only inflated if estimates are obtained without cross-validation. (b) Cross-validation fully eliminates in-sample effect size inflation and, as a consequence, provides higher replicability. Each point in (a) and (b) corresponds to one bootstrap subsample, as in Fig. 4b of Marek et al. Dotted lines denote the threshold for p=0.05 with n=495. (c) The inflation of in-sample effect size obtained without cross-validation (red) is reduced, but does not disappear, at higher sample sizes. Conversely, cross-validated estimates (blue) are slightly pessimistic with low sample sizes and become quickly unbiased as sample size is increased. (d) Without cross-validation, in-sample effect size estimates are non-zero (r≈0.5, red) even when predicting permuted outcome data. Cross-validation eliminates systematic bias across all sample sizes (blue).  Dashed lines in (c) and (d) denote 95% parametric confidence intervals, and shaded areas denote bootstrap and permutation-based confidence intervals. (e-f) Cross-validated analysis reveals that sufficient in-sample power (e) and out-of-sample replication probability (P(rep)) (f) can be achieved for a variety of phenotypes at low or moderate sample sizes. 80% power and P(rep) are achievable in <500 participants for half the phenotypes tested (colored bars) using the prediction algorithm in Marek et al. (top panels in (e) and (f), sample size required for 80% power or P(rep) shown). Other phenotypes require sample sizes >500 (bars with arrows). Power and P(rep) can be substantially improved with a ridge regression-based model recommended in some comparison studies10,11 (bottom panels in (e) and (f)), with 80% power and P(rep) with sample sizes as low as n=100 and n=75, respectively, when predicting cognitive ability, and sample sizes between 75 and 375 for other investigated variables, except inhibition assessed with the flanker task. (g) We estimated interactions between sample size and publication bias by computing effect size inflation (r_discovery - r_replication) only for those bootstrap cases where prediction performance was significant (p>0.05) in the replication sample. Our analysis shows that the effect size inflation due to publication bias is modest (<10%) with <500 participants for half the phenotypes using the Marek et al. model and all phenotypes but the flanker using the ridge model.*
+### Links
+- original paper
+- commentary
+- analysis code
+- 
