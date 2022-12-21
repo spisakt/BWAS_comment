@@ -1,3 +1,33 @@
+title: Replicable BWAS with moderate sample sizes
+author:
+  name: Tamas Spisak, Ulrike Bingel & Tor Wager
+  email: tamas.spisak@uk-essen.de
+description: > # this means to ignore newlines until "show_excerpts:"
+  This webpage accompanies the paper "Multivariate BWAS can be replicable with moderate sample sizes in some cases"
+  by Tamas Spisak, Ulrike Bingel & Tor Wager, Nature, matter arising from
+  "Reproducible brain-wise association studies require thousands of individuals" by Marek, Tervo-Clemmens et al.,
+  Nature, 2022. Nature 603, 654–660 (2022). [https://doi.org/10.1038/s41586-022-04492-9](https://doi.org/10.1038/s41586-022-04492-9)
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    - { platform: github,         user_url: "https://github.com/spisakt/BWAS_comment" }
+    - { platform: twitter,        user_url: "https://twitter.com/spisaktamas" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/pnilab" }
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
 theme: minima
-title: Replicable BWAS with moderate sam[ple sizes
-description: by Tamas Spisak, Ulrike Bingel & Tor Wager
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
