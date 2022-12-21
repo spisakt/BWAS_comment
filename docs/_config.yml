@@ -1,13 +1,10 @@
 title: Replicable BWAS with moderate sample sizes
 author:
-  name: Tamas Spisak, Ulrike Bingel & Tor Wager
+  name: "Tamas Spisak, Ulrike Bingel & Tor Wager"
   email: tamas.spisak@uk-essen.de
 description: > # this means to ignore newlines until "show_excerpts:"
   This webpage accompanies the paper "Multivariate BWAS can be replicable with moderate sample sizes in some cases"
-  by Tamas Spisak, Ulrike Bingel & Tor Wager, Nature, matter arising from
-  "Reproducible brain-wise association studies require thousands of individuals" by Marek, Tervo-Clemmens et al.,
-  Nature, 2022. Nature 603, 654–660 (2022). [https://doi.org/10.1038/s41586-022-04492-9](https://doi.org/10.1038/s41586-022-04492-9)
-show_excerpts: false # set to true to show excerpts on the homepage
+  by Tamas Spisak, Ulrike Bingel & Tor Wager, Nature.
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
