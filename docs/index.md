@@ -1,4 +1,4 @@
-## Main results
+# Replicable BWAS with moderate sample sizes
 
 ** **Under construction** **
 
