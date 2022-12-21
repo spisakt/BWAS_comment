@@ -16,8 +16,11 @@ Nature, 2022. Nature 603, 654–660 (2022). [https://doi.org/10.1038/s41586-022-
 - In our 'Matter Arising' commentary, we distinguish between the effect size estimation method (in-sample vs. cross-validated) and the sample (discovery vs. replication), and show that with appropriate cross-validation the in-sample “inflation” Marek, T-C, et al. report in the discovery sample can be entirely eliminated. 
 - With additional analyses, we demonstrate that multivariate BWAS effects in high quality datasets can be replicable with substantially smaller sample sizes in many cases. Specifically, with a standard multivariate prediction based on functional connectivity, BWAS is commonly replicable with N=75-500.
 
+<div style="text-align: center;">
+<img src="https://github.com/spisakt/BWAS_comment/blob/master/fig/all_hcp_phenotypes_replication.png" width="600" class="center">
+</div>
 
-<img src="https://github.com/spisakt/BWAS_comment/blob/master/fig/main_fig.png" width="20">
+
 
 ### Links
 - original paper
