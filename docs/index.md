@@ -1,6 +1,9 @@
-# Replicable BWAS with moderate sample sizes
 
 ** **Under construction** **
+
+In-sample effects in multivariate BWAS are only inflated if estimates are obtained without cross-validation. (b) Cross-validation fully eliminates in-sample effect size inflation and, as a consequence, provides higher replicability. Each point in (a) and (b) corresponds to one bootstrap subsample, as in Fig. 4b of Marek et al. Dotted lines denote the threshold for p=0.05 with n=495. (c) The inflation of in-sample effect size obtained without cross-validation (red) is reduced, but does not disappear, at higher sample sizes. Conversely, cross-validated estimates (blue) are slightly pessimistic with low sample sizes and become quickly unbiased as sample size is increased. (d) Without cross-validation, in-sample effect size estimates are non-zero (r≈0.5, red) even when predicting permuted outcome da...
+
+## Video Abstract
 
 {% include youtube.html id="ZRzgcT5Tads" %}
 
