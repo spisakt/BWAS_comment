@@ -1,10 +1,8 @@
 
-This webpage accompanies the paper "Multivariate BWAS can be replicable with moderate sample sizes in some cases"
+*This webpage accompanies the paper "Multivariate BWAS can be replicable with moderate sample sizes in some cases"
 by Tamas Spisak, Ulrike Bingel & Tor Wager, Nature, matter arising from
 "Reproducible brain-wise association studies require thousands of individuals" by Marek, Tervo-Clemmens et al.,
-Nature, 2022. Nature 603, 654–660 (2022). [https://doi.org/10.1038/s41586-022-04492-9](https://doi.org/10.1038/s41586-022-04492-9)
-
-## Video Abstract
+Nature, 2022. Nature 603, 654–660 (2022). [https://doi.org/10.1038/s41586-022-04492-9](https://doi.org/10.1038/s41586-022-04492-9)*
 
 {% include youtube.html id="ZRzgcT5Tads" %}
 
