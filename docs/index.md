@@ -4,11 +4,11 @@ by Tamas Spisak, Ulrike Bingel & Tor Wager, Nature, matter arising from
 "Reproducible brain-wise association studies require thousands of individuals" by Marek, Tervo-Clemmens et al.,
 Nature, 2022. Nature 603, 654–660 (2022). [https://doi.org/10.1038/s41586-022-04492-9](https://doi.org/10.1038/s41586-022-04492-9)
 
-### Video Abstract
+## Video Abstract
 
 {% include youtube.html id="ZRzgcT5Tads" %}
 
-### Summary
+## Summary
 
 - Brain-wise Association Studies (BWAS) correlate individual differences in phenotypic traits with measures of brain structue and function.
 - A recent paper by Marek, Tervo-Clemmens (T-C) et al. [evaluated](https://doi.org/10.1038/s41586-022-04492-9) the effects of sample size on univariate and multivariate BWAS in three large-scale neuroimaging datasets and came to the general conclusion that *“BWAS reproducibility requires samples with thousands of individuals”*. 
@@ -22,7 +22,7 @@ Nature, 2022. Nature 603, 654–660 (2022). [https://doi.org/10.1038/s41586-022-
 
 
 
-### Links
+## Links
 - original paper
 - commentary
 - analysis code
