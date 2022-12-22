@@ -50,7 +50,7 @@ by Tamas Spisak, Ulrike Bingel & Tor Wager, Nature
   - confounding bias (can be tested e.g. with [mlconfound](https://mlconfound.readthedocs.io/en/latest/))
   - fairness
 
-## <a name="links"></a> **Links**
+### <a name="links"></a> **Links**
 - original paper
 - commentary
 - analysis code
