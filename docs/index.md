@@ -22,6 +22,8 @@ Nature, 2022. Nature 603, 654–660 (2022). [https://doi.org/10.1038/s41586-022-
 <img src="fig/all_hcp_phenotypes_replication.png" width="600" class="center">
 </div>
 
+{% include figure.html %}
+
 
 
 ## Links
