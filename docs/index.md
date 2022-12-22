@@ -1,15 +1,15 @@
 
 {% include youtube.html id="ZRzgcT5Tads" %}
 
+
 -----------------
+
 
 A recent paper by Marek, Tervo-Clemmens (T-C) et al. [evaluated](https://doi.org/10.1038/s41586-022-04492-9) the effects of sample size on univariate and multivariate BWAS in three large-scale neuroimaging datasets and came to the general conclusion that 
 
 - **“BWAS reproducibility requires samples with thousands of individuals”**. 
 
-Let's [explore](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive.ipynb) the replicability of functional connectivity-based multivariate BWAS in the Human Connectome Poroject.
-
-**with N=500**
+Let's [explore](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive.ipynb) the replicability of functional connectivity-based multivariate BWAS in the Human Connectome Poroject, **with N=500**
  
 {% include figure.html %}    
 
@@ -17,7 +17,7 @@ Appearantly, **BWAS can be replicable with moderate sample sizes in many cases..
 
 If might wonder how to interpret these findings in light of Marek, T-C et al.'s results?
 
-## Check out our commentary: 
+## Check out our commentary!
 
 "Multivariate BWAS can be replicable with moderate sample sizes in some cases"
 by Tamas Spisak, Ulrike Bingel & Tor Wager, Nature
