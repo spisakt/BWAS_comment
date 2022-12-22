@@ -3,8 +3,6 @@ A recent paper by Marek, Tervo-Clemmens (T-C) et al. [evaluated](https://doi.org
 
 - **“BWAS reproducibility requires samples with thousands of individuals”**. 
 
------------------
-
 Let's [explore](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive.ipynb) the replicability of functional connectivity-based multivariate BWAS in the Human Connectome Poroject, **with N=500**
  
 {% include figure.html %}    
