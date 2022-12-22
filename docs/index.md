@@ -1,11 +1,4 @@
-
------------------
-
 {% include youtube.html id="ZRzgcT5Tads" %}
-
-
------------------
-
 
 A recent paper by Marek, Tervo-Clemmens (T-C) et al. [evaluated](https://doi.org/10.1038/s41586-022-04492-9) the effects of sample size on univariate and multivariate BWAS in three large-scale neuroimaging datasets and came to the general conclusion that 
 
