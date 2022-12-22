@@ -3,9 +3,8 @@ theme: minima
 
 
 title: Replicable BWAS with Moderate Sample Sizes
-author:
-  name: Tamas Spisak, Ulrike Bingel & Tor Wager
-  email: tamas.spisak@uk-essen.de
+author: Tamas Spisak, Ulrike Bingel & Tor Wager
+email: tamas.spisak@uk-essen.de
 description: > # this means to ignore newlines until "show_excerpts:"
   This webpage accompanies the paper "Multivariate BWAS can be replicable with moderate sample sizes in some cases"
   by Tamas Spisak, Ulrike Bingel & Tor Wager, accepted in Nature.
