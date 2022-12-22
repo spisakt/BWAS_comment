@@ -1,6 +1,6 @@
 title: Replicable BWAS with moderate sample sizes
 author:
-  name: "Tamas Spisak, Ulrike Bingel & Tor Wager"
+  name: Tamas Spisak
   email: tamas.spisak@uk-essen.de
 description: > # this means to ignore newlines until "show_excerpts:"
   This webpage accompanies the paper "Multivariate BWAS can be replicable with moderate sample sizes in some cases"
@@ -11,11 +11,11 @@ description: > # this means to ignore newlines until "show_excerpts:"
 minima:
   date_format: "%b %-d, %Y"
 
-  # generate social links in footer
-  social_links:
-    - { platform: github,         user_url: "https://github.com/spisakt/BWAS_comment" }
-    - { platform: twitter,        user_url: "https://twitter.com/spisaktamas" }
-    - { platform: youtube,        user_url: "https://www.youtube.com/pnilab" }
+# generate social links in footer
+social_links:
+   - { platform: github,         user_url: "https://github.com/spisakt/BWAS_comment" }
+   - { platform: twitter,        user_url: "https://twitter.com/spisaktamas" }
+   - { platform: youtube,        user_url: "https://www.youtube.com/pnilab" }
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
