@@ -25,7 +25,7 @@ Nature, 2022. Nature 603, 654–660 (2022). [https://doi.org/10.1038/s41586-022-
 {% include figure.html %}    
 
 
-## <a name="summary"></a> Links
+## <a name="links"></a> Links
 - original paper
 - commentary
 - analysis code
