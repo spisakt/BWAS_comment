@@ -37,10 +37,10 @@ by Tamas Spisak, Ulrike Bingel & Tor Wager, Nature
 
 ### **Take Home Messages and Recommendations**
 - Replicability depends on effect size.  
- - [Only effects that explain less than 1% of variance require 1000s]([sim_effect_size.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/sim_effect_size.ipynb)) 
+  - [Only effects that explain less than 1% of variance require 1000s](https://github.com/spisakt/BWAS_comment/blob/master/sim_effect_size.ipynb)
 - Multivariate BWAS (predictive modelling) can provide high effect sizes
- - Go multivariate 
- - Follow methodological recommendations 
+  - Go multivariate 
+  - Follow methodological recommendations 
 - Validate Twice (internally and externally):
   - Perform internal validation during model discovery (e.g. cross-validation)
   - Fix and pre-register your model (including data preprocessing)
