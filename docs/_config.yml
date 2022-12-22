@@ -1,10 +1,14 @@
+# Build settings
+theme: minima
+
+
 title: Replicable BWAS with Moderate Sample Sizes
 author:
-  name: Tamas Spisak
+  name: Tamas Spisak, Ulrike Bingel & Tor Wager
   email: tamas.spisak@uk-essen.de
 description: > # this means to ignore newlines until "show_excerpts:"
   This webpage accompanies the paper "Multivariate BWAS can be replicable with moderate sample sizes in some cases"
-  by Tamas Spisak, Ulrike Bingel & Tor Wager, Nature.
+  by Tamas Spisak, Ulrike Bingel & Tor Wager, accepted in Nature.
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -24,9 +28,5 @@ header_pages:
  - results
  - links
 
-# Build settings
-theme: minima
-
 plugins:
- - jekyll-feed
  - jekyll-seo-tag
