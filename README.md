@@ -42,8 +42,6 @@
 **Main analysis notebooks:** 
 - [get_data.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/get_data.ipynb)
 - [multivariate_BWAS_replicability_analysis_FC.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC.ipynb)
-- [multivariate_BWAS_replicability_analysis_FC.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC.ipynb)
-- [multivariate_BWAS_replicability_analysis_FC_hires.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_hires.ipynb)
 
 **Extended analysis: replicability of 52 phenotypes:**
 - [multivariate_BWAS_replicability_analysis_FC_extensive.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive.ipynb)
@@ -51,9 +49,8 @@
 **Plotting results:**
 - [plot_results_FC.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/plot_results_FC.ipynb)
 
-
-
 **Supplementary analysis notebooks:** 
+- [multivariate_BWAS_replicability_analysis_FC_hires.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_hires.ipynb)
 - [multivariate_BWAS_replicability_analysis_FC_motion.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_motion.ipynb)
 - [multivariate_BWAS_replicability_analysis_CT.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_CT.ipynb)
 - [plot_results_CT.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/plot_results_CT.ipynb)
