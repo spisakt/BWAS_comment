@@ -7,7 +7,6 @@ Nature, 2022. Nature 603, 654–660 (2022). [https://doi.org/10.1038/s41586-022-
 {% include youtube.html id="ZRzgcT5Tads" %}
 
 
-
 ## Summary
 
 - Brain-wise Association Studies (BWAS) correlate individual differences in phenotypic traits with measures of brain structue and function.
@@ -16,9 +15,14 @@ Nature, 2022. Nature 603, 654–660 (2022). [https://doi.org/10.1038/s41586-022-
 - In our 'Matter Arising' commentary, we distinguish between the effect size estimation method (in-sample vs. cross-validated) and the sample (discovery vs. replication), and show that with appropriate cross-validation the in-sample “inflation” Marek, T-C, et al. report in the discovery sample can be entirely eliminated. 
 - With additional analyses, we demonstrate that multivariate BWAS effects in high quality datasets can be replicable with substantially smaller sample sizes in many cases. Specifically, with a standard multivariate prediction based on functional connectivity, BWAS is commonly replicable with N=75-500.
 
+## Multivariate functional connectivity BWAS replicability with N=500
+
 {% include figure.html %}    
 
+***Data:** Human Connectome Project*
 
+***Code:** Click [here](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive.ipynb)
+ for the analysis notebook.*
 
 
 
