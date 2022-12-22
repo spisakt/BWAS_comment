@@ -15,10 +15,14 @@ description: > # this means to ignore newlines until "show_excerpts:"
 #  date_format: "%b %-d, %Y"
 
 # generate social links in footer
-social_links:
-   - { platform: github,         user_url: "https://github.com/spisakt/BWAS_comment" }
-   - { platform: twitter,        user_url: "https://twitter.com/spisaktamas" }
-   - { platform: youtube,        user_url: "https://www.youtube.com/pnilab" }
+#social_links:
+#   - { platform: github,         user_url: "https://github.com/spisakt/BWAS_comment" }
+#   - { platform: twitter,        user_url: "https://twitter.com/spisaktamas" }
+#   - { platform: youtube,        user_url: "https://www.youtube.com/pnilab" }
+twitter_username: spisaktamas
+github_username:  spisakt/BWAS_comment
+youtube_username: pnilab
+
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
