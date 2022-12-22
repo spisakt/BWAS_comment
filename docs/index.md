@@ -49,7 +49,7 @@ by Tamas Spisak, Ulrike Bingel & Tor Wager, accpeted in Nature (link comes soon)
 - Large samples are still essential to evaluate
   - generalizability (e.g. out-of-center, out-of-context)
   - confounding bias (can be tested e.g. with [mlconfound](https://mlconfound.readthedocs.io/en/latest/))
-  - fairness
+  - fairness (across subpopulations)
 
 ### <a name="links"></a> **Links**
 - The original paper: [Marek, S., Tervo-Clemmens, B., Calabro, F.J. et al. Reproducible brain-wide association studies require thousands of individuals. Nature 603, 654–660 (2022)](https://doi.org/10.1038/s41586-022-04492-9)
