@@ -1,7 +1,7 @@
-title: Replicable Brain-Wise Association Studies with Moderate Sample Sizes
-#author:
-#  name: Tamas Spisak
-#  email: tamas.spisak@uk-essen.de
+title: Replicable BWAS with Moderate Sample Sizes
+author:
+  name: Tamas Spisak
+  email: tamas.spisak@uk-essen.de
 description: > # this means to ignore newlines until "show_excerpts:"
   This webpage accompanies the paper "Multivariate BWAS can be replicable with moderate sample sizes in some cases"
   by Tamas Spisak, Ulrike Bingel & Tor Wager, Nature.
