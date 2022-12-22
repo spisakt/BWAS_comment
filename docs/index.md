@@ -3,7 +3,7 @@ In a [recent Nature paper](https://doi.org/10.1038/s41586-022-04492-9), Marek, T
 
 ![image](https://user-images.githubusercontent.com/21124251/209202814-3c8bbc78-0800-42ba-b721-f063d1bc2582.png) **BWAS reproducibility requires samples with thousands of individuals**. 
 
-Let's [explore](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive.ipynb) the replicability of functional connectivity-based multivariate BWAS in the Human Connectome Poroject, **with N=500**
+But is this always the case? Let's [have a colser look](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive.ipynb) at the replicability of functional connectivity-based multivariate BWAS in the Human Connectome Poroject, **with N=500**
  
 {% include figure.html %}    
 
@@ -17,7 +17,7 @@ If you wonder how to interpret these findings in light of Marek, T-C et al.'s re
 ## 1. Check out our commentary
 
 "Multivariate BWAS can be replicable with moderate sample sizes in some cases"
-by Tamas Spisak, Ulrike Bingel & Tor Wager, Nature
+by Tamas Spisak, Ulrike Bingel & Tor Wager, accpeted in Nature (link comes soon)
 
 -----------------
 
@@ -52,7 +52,6 @@ by Tamas Spisak, Ulrike Bingel & Tor Wager, Nature
   - fairness
 
 ### <a name="links"></a> **Links**
-- original paper
-- commentary
-- analysis code
-- 
+- The original paper: [Marek, S., Tervo-Clemmens, B., Calabro, F.J. et al. Reproducible brain-wide association studies require thousands of individuals. Nature 603, 654–660 (2022)](https://doi.org/10.1038/s41586-022-04492-9)
+- Our commentary (link comes soon)
+- [Analysis code](https://github.com/spisakt/BWAS_comment)
