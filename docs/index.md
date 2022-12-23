@@ -30,28 +30,42 @@ by Tamas Spisak, Ulrike Bingel & Tor Wager, accpeted in Nature (link comes soon)
 ## <a name="summary"></a> 3. Read more below
 
 ### **Summary**
-- Brain-wise Association Studies (BWAS) correlate individual differences in phenotypic traits with measures of brain structue and function.
-- A recent paper by Marek, Tervo-Clemmens (T-C) et al. [evaluated](https://doi.org/10.1038/s41586-022-04492-9) the effects of sample size on univariate and multivariate BWAS in three large-scale neuroimaging datasets and came to the general conclusion that *“BWAS reproducibility requires samples with thousands of individuals”*. 
+- Brain-Wide Association Studies (BWAS) correlate individual differences in phenotypic traits with measures of brain structure and function.
+- In a [recent paper](https://doi.org/10.1038/s41586-022-04492-9), Marek, Tervo-Clemmens (T-C) et al. evaluated the effects of sample size on univariate and multivariate BWAS in three large-scale neuroimaging datasets and came to the general conclusion that *“BWAS reproducibility requires samples with thousands of individuals”*. 
 - Marek, T-C, et al. find that multivariate BWAS provide “inflated in-sample associations” that often fail to replicate (i.e., are underpowered) unless thousands of participants are included. This implies that effect size estimates from the discovery sample are necessarily inflated.
 - In our 'Matter Arising' commentary, we distinguish between the effect size estimation method (in-sample vs. cross-validated) and the sample (discovery vs. replication), and show that with appropriate cross-validation the in-sample “inflation” Marek, T-C, et al. report in the discovery sample can be entirely eliminated. 
-- With additional analyses, we demonstrate that multivariate BWAS effects in high quality datasets can be replicable with substantially smaller sample sizes in many cases. Specifically, with a standard multivariate prediction based on functional connectivity, BWAS is commonly replicable with N=75-500.
+- With additional analyses, we demonstrate that multivariate BWAS effects in high quality datasets can be replicable with substantially smaller sample sizes in many cases. Specifically, with a standard multivariate predictive model, functional connectivity-based BWAS is commonly replicable with N=75-500.
 
 ### **Take Home Messages and Recommendations**
-- Replicability depends on effect size.  
+- Replicability depends on effect size:
   - [Only effects that explain less than 1% of variance require 1000s](https://github.com/spisakt/BWAS_comment/blob/master/sim_effect_size.ipynb)
-- Multivariate BWAS (predictive modelling) can provide high effect sizes
+- Multivariate BWAS (predictive modelling) can provide high effect sizes:
   - Go multivariate 
-  - Follow methodological recommendations 
+  - Follow methodological recommendations
+  - Aim at traits (cognition, personality) rather than states (e.g. emotion)
+  - Incorporate within-person variation in symptoms or behavior to improve between person predictions
 - Validate Twice (internally and externally):
   - Perform internal validation during model discovery (e.g. cross-validation)
-  - Fix and pre-register your model (including data preprocessing)
+  - Finalize your model (including data preprocessing) and pre-register further validation
   - Externally validate on independnet (prospective) data.
-- Large samples are still essential to evaluate
-  - generalizability (e.g. out-of-center, out-of-context)
-  - confounding bias (can be tested e.g. with [mlconfound](https://mlconfound.readthedocs.io/en/latest/))
-  - fairness (across subpopulations)
+- Large samples are still essential:
+  - to maximize predictive performance
+  - to evaluate 
+    - generalizability (e.g. out-of-center, out-of-context)
+    - confounding bias (can be tested e.g. with [mlconfound](https://mlconfound.readthedocs.io/en/latest/))
+    - fairness (across subpopulations)
 
 ### <a name="links"></a> **Links**
 - The original paper: [Marek, S., Tervo-Clemmens, B., Calabro, F.J. et al. Reproducible brain-wide association studies require thousands of individuals. Nature 603, 654–660 (2022)](https://doi.org/10.1038/s41586-022-04492-9)
 - Our commentary (link comes soon)
-- [Analysis code](https://github.com/spisakt/BWAS_comment)
+- [Analysis code on github](https://github.com/spisakt/BWAS_comment)
+
+![image](https://user-images.githubusercontent.com/21124251/209310193-87136ddd-571f-4ebc-add7-fc8d21eb2d6d.png)
+![image](https://user-images.githubusercontent.com/21124251/209310283-a7d98eb0-a6dd-450a-82ea-332a66e044fb.png)
+
+![image](https://user-images.githubusercontent.com/21124251/209310564-a2f91a1c-708d-4f6c-acc6-1e5d6ffd2bfd.png)
+![image](https://user-images.githubusercontent.com/21124251/209310628-0fc15170-b14b-44f4-84c1-ebe43cc9d949.png)
+
+
+
+
