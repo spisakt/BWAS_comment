@@ -6,8 +6,6 @@ But is this always the case? Let's have a closer look at the replicability of fu
  
 ### Replicability and predictive effect size at N=500
 {% include figure.html %}
-
-### Percent replicable phenotypes at N=500
 {% include pie.html %}   
 
 *Interactive figures, click here for [analysis code](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive.ipynb).*
