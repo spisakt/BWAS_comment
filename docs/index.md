@@ -57,7 +57,7 @@ by Tamas Spisak, Ulrike Bingel & Tor Wager, accpeted in Nature (link comes soon)
   - to maximize predictive performance
   - to evaluate 
     - generalizability (e.g. out-of-center, out-of-context)
-    - confounding bias (can be tested e.g. with [mlconfound](https://mlconfound.readthedocs.io/en/latest/))
+    - confounding bias (e.g. motion; can be tested with [mlconfound](https://mlconfound.readthedocs.io/en/latest/))
     - fairness (across subpopulations)
 
 ### <a name="links"></a> **Links**
