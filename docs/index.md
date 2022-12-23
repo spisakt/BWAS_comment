@@ -42,11 +42,13 @@ by Tamas Spisak, Ulrike Bingel & Tor Wager, accpeted in Nature (link comes soon)
 ### **Take Home Messages and Recommendations**
 - Replicability depends on effect size:
   - [Only effects that explain less than 1% of variance require 1000s](https://github.com/spisakt/BWAS_comment/blob/master/sim_effect_size.ipynb)
+  - Effect sizes depend on the amount, quality, homogeneity and reliability of both brain and phenotypic measures
 - Multivariate BWAS (predictive modelling) can provide high effect sizes:
   - Go multivariate 
   - Follow methodological recommendations
   - Aim at traits (cognition, personality) rather than states (e.g. emotion)
   - Incorporate within-person variation in symptoms or behavior to improve between person predictions
+  - Focus on larger effects, that are usueful for making individual predictions about individuals
 - Validate Twice (internally and externally):
   - Perform internal validation during model discovery (e.g. cross-validation)
   - Finalize your model (including data preprocessing) and pre-register further validation
