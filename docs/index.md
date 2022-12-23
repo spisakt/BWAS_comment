@@ -11,9 +11,13 @@ A recent paper by Marek, Tervo-Clemmens (T-C) et al. [evaluated](https://doi.org
 
 Let's [explore](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive.ipynb) the replicability of functional connectivity-based multivariate BWAS in the Human Connectome Poroject, **with N=500**
  
-{% include figure.html %}    
+## Replicability and predictive effect size
+{% include figure.html %}
 
-Appearantly, **BWAS can be replicable with moderate sample sizes in many cases...**
+## Percent replicable phenotypes
+{% include figure.html %}   
+
+Appearantly, **BWAS of most phenotypic traits can be replicable with moderate sample sizes**
 
 If might wonder how to interpret these findings in light of Marek, T-C et al.'s results?
 
