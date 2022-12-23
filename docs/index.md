@@ -61,10 +61,10 @@ by Tamas Spisak, Ulrike Bingel & Tor Wager, accpeted in Nature (link comes soon)
 - [Analysis code on github](https://github.com/spisakt/BWAS_comment)
 
 [![image](https://user-images.githubusercontent.com/21124251/209312014-c678b6fd-285b-4ee6-ae68-7ef44e2bc8a9.png)]([https://www.uk-essen.de/en/](https://www.uk-essen.de/))
-[![image](https://user-images.githubusercontent.com/21124251/209312374-645780c7-c2b4-4eba-820a-d2c22316a6c9.png)](https://home.dartmouth.edu/)
+[![Dartmouth College](https://user-images.githubusercontent.com/21124251/209313115-331e3b93-e4b3-4c42-ae18-bba08b492e89.png)](https://home.dartmouth.edu/)
 
-[![image](https://user-images.githubusercontent.com/21124251/209311641-ab03af1f-67e8-49c0-b4b4-f43b9ae40996.png)](https://treatment-expectation.de/)
-[![image](https://user-images.githubusercontent.com/21124251/209311740-2383f0cb-4b8e-4562-af97-7e8df268a0df.png)](https://c-tnbs.uk-essen.de/)
+[![TRR289](https://user-images.githubusercontent.com/21124251/209311641-ab03af1f-67e8-49c0-b4b4-f43b9ae40996.png)](https://treatment-expectation.de/)
+[![CTBNS](https://user-images.githubusercontent.com/21124251/209311740-2383f0cb-4b8e-4562-af97-7e8df268a0df.png)](https://c-tnbs.uk-essen.de/)
 
 
 
