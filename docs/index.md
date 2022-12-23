@@ -13,11 +13,14 @@ Let's [explore](https://github.com/spisakt/BWAS_comment/blob/master/multivariate
  
 ## Replicability and predictive effect size
 {% include figure.html %}
-
+*Interactive figure, click here for [analysis code](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive.ipynb).*
 ## Percent replicable phenotypes
 {% include figure.html %}   
 
 Appearantly, **BWAS of most phenotypic traits can be replicable with moderate sample sizes**
+
+![image](https://user-images.githubusercontent.com/21124251/209199998-00f467fd-491f-4ac1-b35e-a6b8484691e4.png)
+Appearantly, **BWAS can be replicable with moderate sample sizes in many cases...**
 
 If might wonder how to interpret these findings in light of Marek, T-C et al.'s results?
 

@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+iframe {
+    aspect-ratio: 16 / 9;
+    height: auto;
+    width: 100%;
+}
+
 .inner {
   max-width: 100%;
 }

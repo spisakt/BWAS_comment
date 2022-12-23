@@ -54,6 +54,8 @@
 - [multivariate_BWAS_replicability_analysis_FC_motion.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_motion.ipynb)
 - [multivariate_BWAS_replicability_analysis_CT.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_CT.ipynb)
 - [plot_results_CT.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/plot_results_CT.ipynb)
+- [sim_effect_size.ipynb](https://github.com/spisakt/BWAS_comment/blob/master/sim_effect_size.ipynb)
+
 
 **Data:** HCP1200 release
 Data source: [ConnectomeDB](https://db.humanconnectome.org).
