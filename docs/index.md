@@ -60,11 +60,11 @@ by Tamas Spisak, Ulrike Bingel & Tor Wager, accpeted in Nature (link comes soon)
 - Our commentary (link comes soon)
 - [Analysis code on github](https://github.com/spisakt/BWAS_comment)
 
-![image](https://user-images.githubusercontent.com/21124251/209310193-87136ddd-571f-4ebc-add7-fc8d21eb2d6d.png)
-![image](https://user-images.githubusercontent.com/21124251/209310283-a7d98eb0-a6dd-450a-82ea-332a66e044fb.png)
+[![University Hospital Essen](https://user-images.githubusercontent.com/21124251/209310193-87136ddd-571f-4ebc-add7-fc8d21eb2d6d.png)](https://www.uk-essen.de/en/)
+[![Darthmouth College](https://user-images.githubusercontent.com/21124251/209310283-a7d98eb0-a6dd-450a-82ea-332a66e044fb.png)](https://home.dartmouth.edu/)
 
-![image](https://user-images.githubusercontent.com/21124251/209310564-a2f91a1c-708d-4f6c-acc6-1e5d6ffd2bfd.png)
-![image](https://user-images.githubusercontent.com/21124251/209310628-0fc15170-b14b-44f4-84c1-ebe43cc9d949.png)
+![image](https://user-images.githubusercontent.com/21124251/209311641-ab03af1f-67e8-49c0-b4b4-f43b9ae40996.png)
+![image](https://user-images.githubusercontent.com/21124251/209311740-2383f0cb-4b8e-4562-af97-7e8df268a0df.png)
 
 
 
