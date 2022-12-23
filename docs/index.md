@@ -3,9 +3,11 @@ In a [recent Nature paper](https://doi.org/10.1038/s41586-022-04492-9), Marek, T
 
 ![image](https://user-images.githubusercontent.com/21124251/209202814-3c8bbc78-0800-42ba-b721-f063d1bc2582.png) **BWAS reproducibility requires samples with thousands of individuals**. 
 
-But is this always the case? Let's [have a colser look](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive.ipynb) at the replicability of functional connectivity-based multivariate BWAS in the Human Connectome Project, **with N=500**
+But is this always the case? Let's have a closer look at the replicability of functional connectivity-based multivariate BWAS in the Human Connectome Project, **with N=500**:
  
-{% include figure.html %}    
+{% include figure.html %}
+
+*Interactive figure, click here for [analysis code](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive.ipynb).*
 
 ![image](https://user-images.githubusercontent.com/21124251/209199998-00f467fd-491f-4ac1-b35e-a6b8484691e4.png)
 Appearantly, **BWAS can be replicable with moderate sample sizes in many cases...**
