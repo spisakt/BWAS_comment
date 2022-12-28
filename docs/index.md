@@ -8,7 +8,7 @@ But is this always the case? Let's have a closer look at the replicability of fu
 {% include figure_fd.html %}
 {% include pie_fd.html %}   
 
-*Interactive figures, models are not bias by motion, click here for [analysis notebook](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive_motion.ipynb).*
+*Interactive figures, no [motion-bias](https://mlconfound.readthedocs.io) (p>0.05 for each model), click here for [analysis notebook](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive_motion.ipynb).*
 
 ![image](https://user-images.githubusercontent.com/21124251/209199998-00f467fd-491f-4ac1-b35e-a6b8484691e4.png)
 Appearantly, **BWAS can be replicable with moderate sample sizes in many cases...**
@@ -20,7 +20,7 @@ If you wonder how to interpret these findings in light of Marek, T-C et al.'s re
 ## 1. Check out our commentary
 
 "Multivariate BWAS can be replicable with moderate sample sizes in some cases"
-by Tamas Spisak, Ulrike Bingel & Tor Wager, accpeted in Nature (link comes soon)
+*by Tamas Spisak, Ulrike Bingel & Tor Wager, accpeted in Nature* (link comes soon)
 
 -----------------
 
