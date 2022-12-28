@@ -5,10 +5,10 @@ In a [recent Nature paper](https://doi.org/10.1038/s41586-022-04492-9), Marek, T
 But is this always the case? Let's have a closer look at the replicability of functional connectivity-based multivariate BWAS in the Human Connectome Project, **with N=500**:
  
 ### Replicability and predictive effect size at N=500
-{% include figure.html %}
-{% include pie.html %}   
+{% include figure_fd.html %}
+{% include pie_fd.html %}   
 
-*Interactive figures, click here for [analysis code](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive.ipynb).*
+*Interactive figures, no motion bias, click here for [analysis notebook](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive_motion.ipynb).*
 
 ![image](https://user-images.githubusercontent.com/21124251/209199998-00f467fd-491f-4ac1-b35e-a6b8484691e4.png)
 Appearantly, **BWAS can be replicable with moderate sample sizes in many cases...**
