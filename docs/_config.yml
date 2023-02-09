@@ -1,7 +1,6 @@
 # Build settings
 theme: minima
-
-
+google_analytics: G-Y0051BGKMZ
 title: Replicable BWAS with Moderate Sample Sizes
 author: Tamas Spisak, Ulrike Bingel & Tor Wager
 email: tamas.spisak@uk-essen.de
@@ -23,14 +22,12 @@ twitter_username: spisaktamas
 github_username:  pni-lab
 youtube_username: pnilab
 
-google_analytics: G-Y0051BGKMZ
-
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
- - summary
- - results
- - links
+#header_pages:
+# - summary
+# - results
+# - links
 
 plugins:
  - jekyll-seo-tag
