@@ -66,7 +66,8 @@ If you wonder how to interpret these findings in light of Marek, T-C et al.'s re
 - Our commentary (link comes soon)
 - [Analysis code on github](https://github.com/spisakt/BWAS_comment)
 
-### Other papers in the topic
+
+### **Other papers in the topic**
 
 | Authors                               | Title                                                                                                      | Where                                                                                                               |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
