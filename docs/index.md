@@ -66,6 +66,20 @@ If you wonder how to interpret these findings in light of Marek, T-C et al.'s re
 - Our commentary (link comes soon)
 - [Analysis code on github](https://github.com/spisakt/BWAS_comment)
 
+### Other papers in the topic
+
+| Authors                               | Title                                                                                                      | Where                                                                                                               |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Monica D. Rosenberg and Emily S. Finn | How to establish robust brain–behavior relationships without thousands of individuals                      | [Nat. Neurosci.](https://www.nature.com/articles/s41593-022-01110-9)                                                |
+| Zarate J. (editorial)                 | Revisiting doubt in neuroimaging research                                                                  | [Nat. Neurosci.](https://www.nature.com/articles/s41593-022-01125-2)                                                |
+| Bandettini P et al.                   | The challenge of BWAS: Unknown Unknowns in Feature Space and Variance                                      | [Med](http://www.thebrainblog.org/2022/07/04/the-challenge-of-bwas-unknown-unknowns-in-feature-space-and-variance/) |
+| Gratton C. et al.                     | Brain-behavior correlations: Two paths toward reliability                                                  | [Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(22)00363-4)                                                |
+| Cecchetti L. and Handjaras G.         | Reproducible between-person brain-behavior associations do not always require thousands of individuals     | [psyArXiv](https://psyarxiv.com/c8xwe)                                                                              |
+| Winkler A. et al.                     | We need better phenotypes                                                                                  | [brainder.org](https://brainder.org/2022/05/04/we-need-better-phenotypes/)                                          |
+| DeYoung C. et al.                     | Reproducible between-person brain-behavior associations do not always require                              | [psyArXiv](https://psyarxiv.com/sfnmk)                                                                              |
+| Gell M et al.                         | The Burden of Reliability: How Measurement Noise Limits Brain-Behaviour Predictions                        | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.09.527898v1 )                                             |
+| Tiego J. et al.                       | Precision behavioral phenotyping as a strategy for uncovering the biological correlates of psychopathology | [OSF](https://osf.io/geh6q/)                                                                                        |
+
 [![image](https://user-images.githubusercontent.com/21124251/209312014-c678b6fd-285b-4ee6-ae68-7ef44e2bc8a9.png)]([https://www.uk-essen.de/en/](https://www.uk-essen.de/))
 [![Dartmouth College](https://user-images.githubusercontent.com/21124251/209313115-331e3b93-e4b3-4c42-ae18-bba08b492e89.png)](https://home.dartmouth.edu/)
 
