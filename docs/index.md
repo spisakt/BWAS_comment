@@ -8,7 +8,7 @@ But is this always the case? Let's have a closer look at the replicability of fu
 {% include figure_fd.html %}
 {% include pie_fd.html %}   
 
-*Interactive figures, no motion-bias (p>0.05 for all, tested with [mlconfound](https://mlconfound.readthedocs.io/en/latest/)). See [analysis notebook](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive_motion.ipynb). *
+*Interactive figures, no motion-bias (p>0.05 for all, tested with [mlconfound](https://mlconfound.readthedocs.io/en/latest/)). See [analysis notebook](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive_motion.ipynb).*
 
 ![image](https://user-images.githubusercontent.com/21124251/209199998-00f467fd-491f-4ac1-b35e-a6b8484691e4.png)
 Appearantly, **BWAS can be replicable with moderate sample sizes in many cases...**
@@ -21,7 +21,7 @@ If you wonder how to interpret these findings in light of Marek, T-C et al.'s re
 
 [**"Multivariate BWAS can be replicable with moderate sample sizes"**](https://www.nature.com/articles/s41586-023-05745-x)
 
-*by [Tamas Spisak](https://pni-lab.github.io/), [Ulrike Bingel](https://www.bingellab.de/people/) & [Tor Wager](https://sites.dartmouth.edu/canlab/), accpeted in Nature, 615, E4–E7 (2023)* https://doi.org/10.1038/s41586-023-05745-x
+*by [Tamas Spisak](https://pni-lab.github.io/), [Ulrike Bingel](https://www.bingellab.de/people/) & [Tor Wager](https://sites.dartmouth.edu/canlab/), accpeted in Nature, 615, E4–E7 (2023)* doi: [10.1038/s41586-023-05745-x](https://doi.org/10.1038/s41586-023-05745-x)
 
 -----------------
 
@@ -53,7 +53,7 @@ If you wonder how to interpret these findings in light of Marek, T-C et al.'s re
 - Validate Twice (internally and externally):
   - Perform internal validation during model discovery (e.g. cross-validation)
   - Finalize your model (including data preprocessing) and pre-register further validation
-  - Externally validate on independnet (prospective) data.
+  - Externally validate on independent (prospective) data.
 - Large samples are still essential:
   - to maximize predictive performance
   - to evaluate 
