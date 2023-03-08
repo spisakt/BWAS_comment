@@ -8,7 +8,7 @@ But is this always the case? Let's have a closer look at the replicability of fu
 {% include figure_fd.html %}
 {% include pie_fd.html %}   
 
-*Interactive figures, no [motion-bias](https://mlconfound.readthedocs.io) (p>0.05 for each model, tested with [mlconfound](https://mlconfound.readthedocs.io/en/latest/)), click here for [analysis notebook](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive_motion.ipynb).*
+*Interactive figures, no motion-bias (p>0.05 for all, tested with [mlconfound](https://mlconfound.readthedocs.io/en/latest/)). See [analysis notebook](https://github.com/spisakt/BWAS_comment/blob/master/multivariate_BWAS_replicability_analysis_FC_extensive_motion.ipynb). *
 
 ![image](https://user-images.githubusercontent.com/21124251/209199998-00f467fd-491f-4ac1-b35e-a6b8484691e4.png)
 Appearantly, **BWAS can be replicable with moderate sample sizes in many cases...**
