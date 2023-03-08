@@ -19,9 +19,9 @@ If you wonder how to interpret these findings in light of Marek, T-C et al.'s re
 
 ## 1. Check out our commentary
 
-**"Multivariate BWAS can be replicable with moderate sample sizes"**
+[**"Multivariate BWAS can be replicable with moderate sample sizes"**](https://www.nature.com/articles/s41586-023-05745-x)
 
-*by [Tamas Spisak](https://pni-lab.github.io/), [Ulrike Bingel](https://www.bingellab.de/people/) & [Tor Wager](https://sites.dartmouth.edu/canlab/), accpeted in Nature* (link comes soon)
+*by [Tamas Spisak](https://pni-lab.github.io/), [Ulrike Bingel](https://www.bingellab.de/people/) & [Tor Wager](https://sites.dartmouth.edu/canlab/), accpeted in Nature, 615, E4–E7 (2023)* https://doi.org/10.1038/s41586-023-05745-x
 
 -----------------
 
@@ -63,7 +63,7 @@ If you wonder how to interpret these findings in light of Marek, T-C et al.'s re
 
 ### <a name="links"></a> **Links**
 - The original paper: [Marek, S., Tervo-Clemmens, B., Calabro, F.J. et al. Reproducible brain-wide association studies require thousands of individuals. Nature 603, 654–660 (2022)](https://doi.org/10.1038/s41586-022-04492-9)
-- Our commentary (link comes soon)
+- Our commentary: [Spisak, T., Bingel, U. & Wager, T.D. Multivariate BWAS can be replicable with moderate sample sizes. Nature 615, E4–E7 (2023). https://doi.org/10.1038/s41586-023-05745-x](https://www.nature.com/articles/s41586-023-05745-x)
 - [Analysis code on github](https://github.com/spisakt/BWAS_comment)
 
 
