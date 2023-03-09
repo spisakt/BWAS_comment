@@ -80,6 +80,24 @@ If you wonder how to interpret these findings in light of Marek, T-C et al.'s re
 | DeYoung C. et al.                     | Reproducible between-person brain-behavior associations do not always require                              | [psyArXiv](https://psyarxiv.com/sfnmk)                                                                              |
 | Gell M et al.                         | The Burden of Reliability: How Measurement Noise Limits Brain-Behaviour Predictions                        | [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.09.527898v1 )                                             |
 | Tiego J. et al.                       | Precision behavioral phenotyping as a strategy for uncovering the biological correlates of psychopathology | [OSF](https://osf.io/geh6q/)                                                                                        |
+| Chakravarty MM.                       | Precision behavioral phenotyping as a strategy for uncovering the biological correlates of psychopathology | [OHBM Aperture Neuro](https://www.humanbrainmapping.org/files/Aperture%20Neuro/BWAS_1_Introduction_Chakravarty.pdf)            | 
+| White T.                       | Behavioral phenotypes, stochastic processes, entropy, evolution, and individual variability: Toward a unified field theory for neurodevelopment and psychopathology | [OHBM Aperture Neuro](https://www.humanbrainmapping.org/files/Aperture%20Neuro/BWAS_2_Commentary_White.pdf)            | 
+| Bandettini P.                       | Lost in transformation: fMRI power is diminished by unknown variability in methods and people | [OHBM Aperture Neuro](https://www.humanbrainmapping.org/files/Aperture%20Neuro/BWAS_3_Commentary_Bandettini.pdf)            | 
+| Thirion B.                       | On the statistics of brain/behavior associations | [OHBM Aperture Neuro](https://www.humanbrainmapping.org/files/Aperture%20Neuro/BWAS_4_Commentary_Thirion.pdf)           | 
+| Tiego J., Fornito A.                     | Putting behaviour back into brain–behaviour correlation analyses | [OHBM Aperture Neuro](https://www.humanbrainmapping.org/files/Aperture%20Neuro/BWAS_5_Commentary_Tiego.pdf)            | 
+| Lucina QU.                     | Brain-behavior associations depend heavily on user-defined criteria | [OHBM Aperture Neuro](https://www.humanbrainmapping.org/files/Aperture%20Neuro/BWAS_5_Commentary_Tiego.pdf) | 
+| Valk SL., Hettner MD.                     | Commentary on 'Reproducible brain-wide association studies require thousands of individuals' | [OHBM Aperture Neuro](https://www.humanbrainmapping.org/files/Aperture%20Neuro/BWAS_7_Commentary_ValkHettwer.pdf)            | 
+
+
+
+
+
+
+
+
+
+
+
 
 [![image](https://user-images.githubusercontent.com/21124251/209312014-c678b6fd-285b-4ee6-ae68-7ef44e2bc8a9.png)]([https://www.uk-essen.de/en/](https://www.uk-essen.de/))
 [![Dartmouth College](https://user-images.githubusercontent.com/21124251/209313115-331e3b93-e4b3-4c42-ae18-bba08b492e89.png)](https://home.dartmouth.edu/)
