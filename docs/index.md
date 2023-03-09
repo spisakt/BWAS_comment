@@ -69,10 +69,12 @@ If you wonder how to interpret these findings in light of Marek, T-C et al.'s re
 
 ### **Other papers in the topic**
 
+
 | Authors                               | Title                                                                                                      | Where                                                                                                               |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Nature editorial                 | Cognitive neuroscience at the crossroads                                                                  | [Nature](https://www.nature.com/articles/d41586-022-02283-w)                                                |
+| Nat. Neurosci. editorial          | Revisiting doubt in neuroimaging research                                                                  | [Nat. Neurosci.](https://www.nature.com/articles/s41593-022-01125-2)                                                |
 | Monica D. Rosenberg and Emily S. Finn | How to establish robust brain–behavior relationships without thousands of individuals                      | [Nat. Neurosci.](https://www.nature.com/articles/s41593-022-01110-9)                                                |
-| Zarate J. (editorial)                 | Revisiting doubt in neuroimaging research                                                                  | [Nat. Neurosci.](https://www.nature.com/articles/s41593-022-01125-2)                                                |
 | Bandettini P et al.                   | The challenge of BWAS: Unknown Unknowns in Feature Space and Variance                                      | [Med](http://www.thebrainblog.org/2022/07/04/the-challenge-of-bwas-unknown-unknowns-in-feature-space-and-variance/) |
 | Gratton C. et al.                     | Brain-behavior correlations: Two paths toward reliability                                                  | [Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(22)00363-4)                                                |
 | Cecchetti L. and Handjaras G.         | Reproducible between-person brain-behavior associations do not always require thousands of individuals     | [psyArXiv](https://psyarxiv.com/c8xwe)                                                                              |
