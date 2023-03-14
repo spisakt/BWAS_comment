@@ -89,9 +89,7 @@ If you wonder how to interpret these findings in light of Marek, T-C et al.'s re
 | Tiego J., Fornito A.                     | Putting behaviour back into brain–behaviour correlation analyses | [OHBM Aperture Neuro](https://www.humanbrainmapping.org/files/Aperture%20Neuro/BWAS_5_Commentary_Tiego.pdf)            | 
 | Lucina QU.                     | Brain-behavior associations depend heavily on user-defined criteria | [OHBM Aperture Neuro](https://www.humanbrainmapping.org/files/Aperture%20Neuro/BWAS_5_Commentary_Tiego.pdf) | 
 | Valk SL., Hettner MD.                     | Commentary on 'Reproducible brain-wide association studies require thousands of individuals' | [OHBM Aperture Neuro](https://www.humanbrainmapping.org/files/Aperture%20Neuro/BWAS_7_Commentary_ValkHettwer.pdf)            | 
-
-
-
+| Kong XZ., et al.                   | Scanning reproducible brain-wide associations: sample size is all you need? | [Psychoradiology](https://academic.oup.com/psyrad/article/2/3/67/6758324)            | 
 
 
 
