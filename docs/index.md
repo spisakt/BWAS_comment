@@ -90,7 +90,8 @@ If you wonder how to interpret these findings in light of Marek, T-C et al.'s re
 | Lucina QU.                     | Brain-behavior associations depend heavily on user-defined criteria | [OHBM Aperture Neuro](https://www.humanbrainmapping.org/files/Aperture%20Neuro/BWAS_5_Commentary_Tiego.pdf) | 
 | Valk SL., Hettner MD.                     | Commentary on 'Reproducible brain-wide association studies require thousands of individuals' | [OHBM Aperture Neuro](https://www.humanbrainmapping.org/files/Aperture%20Neuro/BWAS_7_Commentary_ValkHettwer.pdf)            | 
 | Kong XZ., et al.                   | Scanning reproducible brain-wide associations: sample size is all you need? | [Psychoradiology](https://academic.oup.com/psyrad/article/2/3/67/6758324)            | 
-
+| J. Goltermann, et al. | Cross-validation for the estimation of effect size generalizability in mass-univariate brain-wide association studies | [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.29.534696v1.abstract) | 
+| Kang K., et al. | Study design features that improve effect sizes in cross-sectional and longitudinal brain-wide association studies | [BioRxiv](https://doi.org/10.1101/2023.05.29.542742) |
 
 
 
