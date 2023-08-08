@@ -21,7 +21,7 @@ If you wonder how to interpret these findings in light of Marek, T-C et al.'s re
 
 [**"Multivariate BWAS can be replicable with moderate sample sizes"**](https://www.nature.com/articles/s41586-023-05745-x)
 
-*by [Tamas Spisak](https://pni-lab.github.io/), [Ulrike Bingel](https://www.bingellab.de/people/) & [Tor Wager](https://sites.dartmouth.edu/canlab/), accpeted in Nature, 615, E4–E7 (2023)* doi: [10.1038/s41586-023-05745-x](https://doi.org/10.1038/s41586-023-05745-x)
+*by [Tamas Spisak](https://pni-lab.github.io/), [Ulrike Bingel](https://www.bingellab.de/people/) & [Tor Wager](https://sites.dartmouth.edu/canlab/), Nature, 615, E4–E7 (2023)* doi: [10.1038/s41586-023-05745-x](https://doi.org/10.1038/s41586-023-05745-x)
 
 -----------------
 
